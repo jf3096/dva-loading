@@ -1,7 +1,7 @@
 {
-  "name": "dva-loading",
-  "version": "0.2.1",
-  "description": "Auto loading plugin for dva.",
+  "name": "kingsoft-dva-loading",
+  "version": "0.0.1",
+  "description": "kingsoft patch/fork version for dva-loading which is an auto loading plugin.",
   "repository": {
     "type": "git",
     "url": "https://github.com/dvajs/dva-loading"
@@ -12,7 +12,7 @@
     "dva-plugin",
     "loading"
   ],
-  "author": "chencheng <sorrycc@gmail.com>",
+  "author": "ailunshe <529360897@qq.com>",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {

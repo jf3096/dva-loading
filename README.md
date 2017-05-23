@@ -8,6 +8,13 @@
 Auto loading plugin for dva. :clap: You don't need to write `showLoading` and `hideLoading` any more.
 
 ---
+## Fork
+
+This is a fork version of dva-loading. The default dva-loading has some pitfalls such as:
+1. Loader for each redux state should be design as counter not simple boolean. (inspired by NProgress)
+2. The loading state is link to redux state itself instead of each component data which are store in redux state. (working in progress)
+
+The above problems are going to address in the repo.
 
 ## Install
 
